@@ -15,7 +15,8 @@ function App=(n,m,s){
     };
     //Declare the instance function sleep here.
     this.sleep = function(){
-        
+        if this.sleep == active
+            
 
 
 
