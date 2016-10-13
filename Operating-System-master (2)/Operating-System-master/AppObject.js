@@ -1,25 +1,32 @@
-function App(){
+function App=(n,m,s){
 
     //Declare your instance variables here.
-    this.
-    this.
-    this.
+    this.name = n
+    this.memory = m 
+    this.state = s
 
     //Declare the instance function open here.
     this.open = function(){
+        this.state = "active" 
+        return
 
 
 
     };
     //Declare the instance function sleep here.
+    this.sleep = function(){
+        
 
 
 
     //Declare the instance function active here.
+        this.active = function(){
+            
 
 
 
     //Declare the instance function close here.
+            this.close = function(){
 
 
 
